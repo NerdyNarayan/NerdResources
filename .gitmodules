@@ -1,3 +1,57 @@
 [submodule "machineLearning/ML-From-Scratch"]
 	path = machineLearning/ML-From-Scratch
 	url = https://github.com/eriklindernoren/ML-From-Scratch.git
+[submodule "machineLearning/Advanced/llm-course"]
+	path = machineLearning/Advanced/llm-course
+	url = https://github.com/mlabonne/llm-course.git
+[submodule "machineLearning/Beginner/Basic-Mathematics-for-Machine-Learning"]
+	path = machineLearning/Beginner/Basic-Mathematics-for-Machine-Learning
+	url = https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning.git
+[submodule "machineLearning/Advanced/annotated_deep_learning_paper_implementations"]
+	path = machineLearning/Advanced/annotated_deep_learning_paper_implementations
+	url = https://github.com/labmlai/annotated_deep_learning_paper_implementations.git
+[submodule "machineLearning/Beginner/Mathematics/Mathematics-for-ML"]
+	path = machineLearning/Beginner/Mathematics/Mathematics-for-ML
+	url = https://github.com/dair-ai/Mathematics-for-ML.git
+[submodule "machineLearning/Beginner/Mathematics/mml-book.github.io"]
+	path = machineLearning/Beginner/Mathematics/mml-book.github.io
+	url = https://github.com/mml-book/mml-book.github.io.git
+[submodule "machineLearning/Beginner/CourseResources/ML-For-Beginners"]
+	path = machineLearning/Beginner/CourseResources/ML-For-Beginners
+	url = https://github.com/microsoft/ML-For-Beginners
+[submodule "machineLearning/Intermediate/TensorFlow-Examples"]
+	path = machineLearning/Intermediate/TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "machineLearning/ML-Study-Guide"]
+	path = machineLearning/ML-Study-Guide
+	url = https://github.com/AssemblyAI-Community/ML-Study-Guide
+[submodule "machineLearning/Beginner/Resources"]
+	path = machineLearning/Beginner/Resources
+	url = https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+[submodule "machineLearning/Advanced/mit-deep-learning-book-pdf"]
+	path = machineLearning/Advanced/mit-deep-learning-book-pdf
+	url = https://github.com/janishar/mit-deep-learning-book-pdf
+[submodule "machineLearning/Beginner/CourseResources/machine-learning-specialization-andrew-ng"]
+	path = machineLearning/Beginner/CourseResources/machine-learning-specialization-andrew-ng
+	url = https://github.com/pmulard/machine-learning-specialization-andrew-ng.git
+[submodule "machineLearning/Beginner/CourseResources/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera"]
+	path = machineLearning/Beginner/CourseResources/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera
+	url = https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera.git
+[submodule "machineLearning/Beginner/CourseResources/ML-specialization-notes"]
+	path = machineLearning/Beginner/CourseResources/ML-specialization-notes
+	url = https://github.com/Param302/ML-specialization-notes.git
+[submodule "machineLearning/Beginner/machine-learning-roadmap"]
+	path = machineLearning/Beginner/machine-learning-roadmap
+	url = https://github.com/mrdbourke/machine-learning-roadmap.git
+[submodule "machineLearning/Beginner/handson-ml2"]
+	path = machineLearning/Beginner/handson-ml2
+	url = https://github.com/ageron/handson-ml2.git
+[submodule "machineLearning/Intermediate/DeepLearning-500-questions"]
+	path = machineLearning/Intermediate/DeepLearning-500-questions
+	url = https://github.com/scutan90/DeepLearning-500-questions.git
+[submodule "machineLearning/Beginner/zero-to-mastery-ml"]
+	path = machineLearning/Beginner/zero-to-mastery-ml
+	url = https://github.com/mrdbourke/zero-to-mastery-ml
+[submodule "machineLearning/Intermediate/tensorflow-deep-learning"]
+	path = machineLearning/Intermediate/tensorflow-deep-learning
+	url = https://github.com/mrdbourke/tensorflow-deep-learning.git
