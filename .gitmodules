@@ -1,0 +1,3 @@
+[submodule "machineLearning/ML-From-Scratch"]
+	path = machineLearning/ML-From-Scratch
+	url = https://github.com/eriklindernoren/ML-From-Scratch.git
